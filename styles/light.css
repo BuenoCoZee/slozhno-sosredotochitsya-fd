@@ -1,4 +1,11 @@
 :root.theme-light {
   --bg-image: url('../images/cover-image-light.png');
-  --accent-color: #FFF1F7;
+
+  --accent-bg-color: #FFF1F7;
+  --accent-color: #353430;
+  --card-heading-color: #353430;
+  --card-heading-bg-color: #ff8dcb;
+  --card-text-color: #353430;
+  --accent-heading-color: #ffc2e6;
+  --text-shadow-color: #ff8dcb;
 }

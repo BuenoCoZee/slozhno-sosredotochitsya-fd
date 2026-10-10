@@ -1,0 +1,10 @@
+:root {
+  --fz-main-heading: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --ibm-plex-mono: 'IBM Plex mono', sans-serif;
+}
+
+@media (width >= 1024px) {
+  :root {
+    --fz-main-heading: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem); 
+  }
+}
