@@ -176,7 +176,7 @@
   text-shadow: 2px 2px 0 var(--text-shadow-color);
 
   &:hover {
-    box-shadow: inset 0 -1px 0 0 var(--card-text-color); 
+    box-shadow: inset 0 -1px 0 0 var(--card-text-color);
   }
 
   &:focus {
