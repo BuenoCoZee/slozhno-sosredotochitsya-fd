@@ -16,7 +16,6 @@
   :root {
     --bg-image: url('../images/cover-image-light.png');
     --decoration-item-display: none;
-    --decoration-corners-display: none;
 
     --accent-bg-color: #fff1f7;
     --accent-color: #353430;

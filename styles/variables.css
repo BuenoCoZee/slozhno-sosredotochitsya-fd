@@ -1,6 +1,18 @@
 :root {
   --fz-main-heading: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --ibm-plex-mono: "IBM Plex mono", sans-serif;
+
+  --bg-image: url('../images/cover-image-dark.png');
+  --decoration-item-display: block;
+
+  --accent-bg-color: #000028;
+  --accent-color: #ff0070;
+  --card-heading-color: #000028;
+  --card-heading-bg-color: #ff0070;
+  --card-text-color: #f1b2ce;
+  --accent-heading-color: #db00ff;
+  --text-shadow-color: #ff0070;
+  --toggler-button-border-color: rgba(255, 0, 112, 0.4);
 }
 
 @media (width >= 1024px) {
